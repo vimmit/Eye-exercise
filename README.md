@@ -2,14 +2,14 @@
 ## Exercise on eyes
 
 The eyes follow the movement of the mouse. Eye and the eye balls are made using CSS. I get the X and Y coordinates of the mouse pointer whenever the mouse moves and
-divide it with window's width and height respectively and get percentage of it. Then I set the top and left properties of each ball to corresponding Y and X.
+divide it by window's width and height respectively and get percentage of it. Then I set the top and left properties of each ball to corresponding Y and X.
 ![Screenshot Eye exercise](https://user-images.githubusercontent.com/22720260/195969854-46c95d54-8a7d-4d7a-83c7-3b5b2800dc5d.png)
 
 How to Run: Move your mouse around the screen and the eye balls will follow your mouse pointer.
 
 Roadmap of future improvements: I would add more features to make it look like a face such as mouth, nose, eyebrows and the boundary of the face.
 
-MIT License
+License: MIT License
 
 Copyright (c) 2020 John Williams
 
