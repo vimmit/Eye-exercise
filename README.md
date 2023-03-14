@@ -1,5 +1,5 @@
 # Eyes
-## Exercise on eyes
+## [Exercise on eyes](https://vimmit.github.io/Eye-exercise/)
 
 The eyes follow the movement of the mouse. Eye and the eye balls are made using CSS. I get the X and Y coordinates of the mouse pointer whenever the mouse moves and
 divide it by window's width and height respectively and get percentage of it. Then I set the top and left properties of each ball to corresponding Y and X.
